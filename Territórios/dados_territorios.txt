@@ -1,0 +1,7 @@
+PESSOA:João Silva|(11) 9999-1111
+PESSOA:Maria Santos|(11) 9999-2222
+PESSOA:Pedro Oliveira|(11) 9999-3333
+PESSOA:Tiago|546125961
+TERRITORIO:1|Centro|Quadras 1-15|true|null
+TERRITORIO:2|Jardim das Flores|Quadras A-H|true|null
+TERRITORIO:3|Vila Nova|Ruas 1-20|true|null
