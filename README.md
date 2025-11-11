@@ -37,8 +37,8 @@ Sou um Desenvolvedor Backend apaixonado por Criação de Programas e Jogos. Ador
 
 # 📌 Projeto
 
-### 🏆 Aprendendo a linguagem Java
-Apenas um repositório para Treinamento
+### 🏆 Gerenciamento de Territórios
+APP Local para Territórios
 
 ### Tecnologias utilizadas:
 ### Linguagens de Programação
